@@ -204,7 +204,7 @@ GROUP BY EXTRACT(DOW FROM order_datetime);
 ```
 ## 📊 Dashboard Preview
 ---
-![Pizza Sales Dashboard Screenshot](/Images/Dashboard.png)
+![Pizza Sales Dashboard Screenshot](Images/Dashboard.png)
 
 ## 🔍 Insights Gained
 ---
