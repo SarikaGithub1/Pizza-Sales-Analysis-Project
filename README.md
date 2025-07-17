@@ -4,7 +4,7 @@
 ---
 Welcome to the **Pizza Sales Analysis** project— A SQL and PowerBI based analysis.
 
-Athena’s Oven has gathered extensive transactional data over the past year and now seeks meaningful insights to better understand their sales patterns and make informed decisions. As a data analyst, I’m diving into this data to uncover trends and opportunities that can help the business enhance its sales performance and drive greater revenue.
+A pizza company- Athena’s Oven has gathered extensive transactional data over the past year and now seeks meaningful insights to better understand their sales patterns and make informed decisions. As a data analyst, I’m diving into this data to uncover trends and opportunities that can help the business enhance its sales performance and drive greater revenue.
 
 #### 🔍 Project Goals
 
